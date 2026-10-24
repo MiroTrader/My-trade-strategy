@@ -1,1 +1,1 @@
-# my-trade-strategy
+# My-trade-strategy
